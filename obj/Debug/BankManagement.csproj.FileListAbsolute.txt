@@ -1,0 +1,17 @@
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\bin\Debug\BankManagement.exe.config
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\bin\Debug\BankManagement.exe
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\bin\Debug\BankManagement.pdb
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.Properties.Resources.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.csproj.GenerateResource.cache
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.exe
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.pdb
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.GeneralOfficer.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.Login.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.Manager.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.Admin.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.OfficerSearchUserControl.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.OfficerInsertUserControl.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.OfficerDeleteUserControl.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.OfficerUpdateUserControl.resources
+C:\Users\Samir\Desktop\C# Final Project\BankManagement\obj\Debug\BankManagement.csprojAssemblyReference.cache
